@@ -1,7 +1,7 @@
 # How to install X-Ray pussy prefab
 
 1. Make sure you have VRCFury installed, see https://vrcfury.com/download/    
-   ![image](https://user-images.githubusercontent.com/31988415/244846666-dcc675e7-0949-4fd4-8aab-4bde26fed55e.png)
+   ![image](https://github.com/TayouVR/xray_prefab_instruction_media/assets/31988415/95a47d28-5ebb-4a15-9473-b09d4de3b2ee)
 2. place the prefab from this folder into your avatar in the scene   
    ![image](https://raw.githubusercontent.com/TayouVR/xray_prefab_instruction_media/main/.github/images/step2.gif)
 3. unpack the outer prefab (DON'T "Unpack Prefab Completely"!!!)   
